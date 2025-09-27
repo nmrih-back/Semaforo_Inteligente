@@ -1,7 +1,7 @@
 # Semáforo_Inteligente
 Repositório do que foi feito no projeto.
 
-<img src="Representação visual do semáforo/Semáforo Inteligente.png" width="600"/>
+<img src="Representação visual do semáforo/Semáforo Inteligente.png" width="300"/>
 
 
 
