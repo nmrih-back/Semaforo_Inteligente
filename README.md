@@ -51,7 +51,7 @@ Iniciar a redação do relatório técnico, incluindo: introdução, objetivos, 
 
 ---
 
-<strong>Outubro/Novembro — Finalização do Relatório e Preparação da Apresentação<br>
+<strong>Outubro/Novembro</strong> — Finalização do Relatório e Preparação da Apresentação<br>
 Concluir a redação do relatório com os tópicos: resultados, análise dos testes, dificuldades e soluções, e conclusão.<br>
 Estruturar a apresentação oral com apoio de slides, maquete ou vídeo demonstrativo.<br>
 Ensaiar a apresentação com divisão clara de falas entre os integrantes.<br>
