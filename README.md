@@ -3,6 +3,19 @@ Repositório do que foi feito no projeto.
 
 <img src="Representação visual do semáforo/Semáforo Inteligente.png" width="600"/>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Materiais necessários:
 
 1- Led amarelo, Verde  e Vermelho<br>
