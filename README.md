@@ -5,7 +5,7 @@ Repositório pra colocar as parada do semafóro.
 
 # Materiais necessários:
 
-1- Led amarelo, Verde  e Vermelho
+1- Led amarelo, Verde  e Vermelho<br>
 2- Sensor infravermelho, Sensor Indutivo (X)
 3- Arduino UNO 3
 4- 1x Chave Táctil Push-button
@@ -15,6 +15,7 @@ Repositório pra colocar as parada do semafóro.
 8- jumpers
 9- Diodos de proteção (X)
 10- Relé de 5V módulo relé de 1 canal
+
 (Os que estão marcados com "(x)" são materiais que a escola não fornece).
 
 
