@@ -19,7 +19,7 @@ Repositório do que foi feito no projeto.
 (Os que estão marcados com "(x)" são materiais que a escola não fornece).
 
 # Cronograma:
-Julho — Planejamento Técnico<br>
+<strong>Julho</strong> — Planejamento Técnico<br>
 Consolidar os conceitos teóricos sobre funcionamento de semáforos, sensores e microcontroladores.<br>
 Definir a lógica de operação do projeto (ex.: controle por sensores de presença, tempo ou botão de pedestre).<br>
 Elaborar o diagrama do circuito elétrico com todos os componentes necessários.<br>
