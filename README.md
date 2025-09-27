@@ -1,6 +1,6 @@
 # Semafóro_Inteligente
 Repositório pra colocar as parada do semafóro.
 
-![Descrição](file:///C:/Users/Matheus/Downloads/Sem%C3%A1foro%20Inteligente.png)
+<img src="C:\Users\Matheus\Downloads\Representação visual do semafóro" width="300"/
 
 
