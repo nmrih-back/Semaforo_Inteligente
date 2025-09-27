@@ -1,5 +1,5 @@
 # Semafóro_Inteligente
-Repositório pra colocar as parada do semafóro.
+Repositório do que foi feito no projeto.
 
 <img src="Representação visual do semafóro/Semáforo Inteligente.png" width="1000"/>
 
