@@ -1,7 +1,7 @@
 # Semafóro_Inteligente
 Repositório pra colocar as parada do semafóro.
 
-<img src="Representação visual do semafóro/Semáforo Inteligente.png" width="300"/>
+<img src="Representação visual do semafóro/Semáforo Inteligente.png" width="1000"/>
 
 # Materiais necessários:
 
